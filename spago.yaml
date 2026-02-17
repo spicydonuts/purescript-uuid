@@ -1,0 +1,12 @@
+package:
+  name: uuid
+  publish:
+    version: 9.0.0
+    license: MIT
+    location:
+      githubOwner: rowtype-yoga
+      githubRepo: purescript-uuid
+  dependencies:
+    - effect: ">=4.0.0 <5.0.0"
+    - maybe: ">=6.0.0 <7.0.0"
+    - prelude: ">=6.0.0 <7.0.0"
